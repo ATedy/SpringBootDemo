@@ -1,0 +1,4 @@
+SpringBoot:
+
+- resources -> Statics and templates: for web applications like HTML and CSS
+-
